@@ -1,3 +1,3 @@
 ---
-permalink: /design/index.html
+permalink: design/index.html
 ---
