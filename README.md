@@ -1,2 +1,3 @@
-# Atom.github.io
-this is my website
+---
+permalink: /design/index.html
+---
